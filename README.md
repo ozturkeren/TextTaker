@@ -1,6 +1,4 @@
-# Web Text Scraper
-
-Small, extensible CLI to extract text from a specific web page via **CSS selector** or **XPath**.
+# Text Taker
 
 ## Install
 
@@ -11,3 +9,4 @@ python -m venv .venv
 # macOS/Linux:
 # source .venv/bin/activate
 pip install -r requirements.txt
+```

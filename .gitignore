@@ -18,3 +18,7 @@ out.txt
 # OS noise
 .DS_Store
 Thumbs.db
+
+# requirements and copies
+requirements.txt
+README_copy.md
