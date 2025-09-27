@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+archive/
+scraper/
+take.py
+
+src/
+
+# env
+.env
+.env.sample
+
+# out
+out.txt
+
+# OS noise
+.DS_Store
+Thumbs.db
