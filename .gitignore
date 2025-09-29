@@ -4,6 +4,7 @@ __pycache__/
 .venv/
 archive/
 scraper/
+playwright/
 take.py
 
 src/
