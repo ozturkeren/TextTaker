@@ -5,7 +5,6 @@ __pycache__/
 archive/
 scraper/
 playwright/
-take.py
 
 src/
 
@@ -21,6 +20,5 @@ out.txt
 Thumbs.db
 
 # requirements and copies
-requirements.txt
 requirements_copy.txt
 README_copy.md
