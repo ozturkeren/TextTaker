@@ -11,3 +11,5 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 ---
+
+The devil is in the details.
