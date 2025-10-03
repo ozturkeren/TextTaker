@@ -12,4 +12,4 @@ pip install -r requirements.txt
 ```
 ---
 
-The devil is in the details.
+Hidden in details
